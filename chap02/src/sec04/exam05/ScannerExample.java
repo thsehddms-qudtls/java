@@ -13,7 +13,7 @@ public class ScannerExample {
 			inputData = scanner.nextLine();
 			System.out.println("입력된 문자열: \"" + inputData + "\"");
 			if(inputData.equals("q")) {
-			break;
+				break;
 			}
 		}
 		System.out.println("종료");
