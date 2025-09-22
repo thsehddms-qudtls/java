@@ -12,7 +12,7 @@ public class PersonExample {
 		
 		//p1.nation = "usa";
 		//p1.ssn = "654321-7654321";
-		p1.name = "홍삼원";
+		p1.name = "홍삼원";  
 	}
 
 }
